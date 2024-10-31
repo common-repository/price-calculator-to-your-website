@@ -1,0 +1,19 @@
+/*css styles*/
+.mx-calc-footer {
+	margin-top: 30px;
+}
+#mx-calc-result {
+	display: inline-block;
+	margin-left: 20px;
+}
+.mx-calc-item {
+	border-bottom: 1px solid #333;
+	padding-bottom: 20px;
+}
+.mx-calc-user-enter {
+	max-width: 120px;
+}
+.mx-calc-wrap {
+	padding: 10px;
+	width: 100%;
+}

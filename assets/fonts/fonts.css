@@ -1,0 +1,66 @@
+/*fonts*/
+/* font-family: "RobotoCondensedRegular"; */
+@font-face {
+    font-family: 'RobotoCondensedRegular';
+    src: url("./RobotoCondensedRegular/RobotoCondensedRegular.eot?#iefix") format("embedded-opentype"), 
+    url("./RobotoCondensedRegular/RobotoCondensedRegular.woff") format("woff"), 
+    url("./RobotoCondensedRegular/RobotoCondensedRegular.ttf") format("truetype"), 
+    url("./RobotoCondensedRegular/RobotoCondensedRegular.svg#RobotoCondensedRegular") format("svg");
+    font-weight: normal;
+    font-style: normal; 
+}
+
+/* font-family: "Montserrat-Regular"; */
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url("./Montserrat-Regular/Montserrat-Regular.eot?#iefix") format("embedded-opentype"), 
+    url("./Montserrat-Regular/Montserrat-Regular.woff") format("woff"), 
+    url("./Montserrat-Regular/Montserrat-Regular.ttf") format("truetype"), 
+    url("./Montserrat-Regular/Montserrat-Regular.svg#Montserrat-Regular") format("svg");
+    font-weight: normal;
+    font-style: normal; 
+}
+
+/* font-family: "MyriadPro-Regular"; */
+@font-face {
+    font-family: 'MyriadPro-Regular';
+    src: url("./MyriadPro-Regular/MyriadPro-Regular.eot?#iefix") format("embedded-opentype"), 
+    url("./MyriadPro-Regular/MyriadPro-Regular.woff") format("woff"), 
+    url("./MyriadPro-Regular/MyriadPro-Regular.ttf") format("truetype"), 
+    url("./MyriadPro-Regular/MyriadPro-Regular.svg#MyriadPro-Regular") format("svg");
+    font-weight: normal;
+    font-style: normal; 
+}
+
+/* font-family: "Nostalgia"; */
+@font-face {
+    font-family: 'Nostalgia';
+    src: url("./Nostalgia/Nostalgia.eot?#iefix") format("embedded-opentype"), 
+    url("./Nostalgia/Nostalgia.woff") format("woff"), 
+    url("./Nostalgia/Nostalgia.ttf") format("truetype"), 
+    url("./Nostalgia/Nostalgia.svg#Nostalgia") format("svg");
+    font-weight: normal;
+    font-style: normal; 
+}
+
+/* font-family: "OpenSans"; */
+@font-face {
+    font-family: 'OpenSans';
+    src: url("./OpenSans/OpenSans.eot?#iefix") format("embedded-opentype"), 
+    url("./OpenSans/OpenSans.woff") format("woff"), 
+    url("./OpenSans/OpenSans.ttf") format("truetype"), 
+    url("./OpenSans/OpenSans.svg#OpenSans") format("svg");
+    font-weight: normal;
+    font-style: normal; 
+}
+
+/* font-family: "PTSansPro-Light"; */
+@font-face {
+    font-family: 'PTSansPro-Light';
+    src: url("./PTSansPro-Light/PTSansPro-Light.eot?#iefix") format("embedded-opentype"), 
+    url("./PTSansPro-Light/PTSansPro-Light.woff") format("woff"), 
+    url("./PTSansPro-Light/PTSansPro-Light.ttf") format("truetype"), 
+    url("./PTSansPro-Light/PTSansPro-Light.svg#PTSansPro-Light") format("svg");
+    font-weight: normal;
+    font-style: normal; 
+}
